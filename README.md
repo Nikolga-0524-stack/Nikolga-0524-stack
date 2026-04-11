@@ -17,7 +17,7 @@
 - **AI & LLM**: GigaCat API, LangChain, промпт-инженерия
 - **Bots**: Telegram Bot API, aiogram
 - **Data & Infra**: PostgreSQL, Redis, Docker (базово), Git
-- **Other**: gRPC (изучаю), Linux, GitHub Actions
+- **Other**: gRPC , Linux, GitHub Actions
 
 ---
 
@@ -51,4 +51,3 @@ Telegram-бот, который отвечает на вопросы польз�
 - **GitHub**: [Nikolga-0524-stack](https://github.com/Nikolga-0524-stack)
 
 > 💡 *Открыта к предложениям  и интересным пет-проектам в области AI/LLM. Пиши — обсудим!*
-https://github-readme-stats.vercel.app/api?username=Nikolga-0524-stack&show_icons=true
