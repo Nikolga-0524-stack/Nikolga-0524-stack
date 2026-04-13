@@ -47,7 +47,7 @@ Telegram-бот, который отвечает на вопросы польз�
 
 ## 📬 Контакты
 
-- **Email**: [написать](mailto:Nikolga-0524@inbox.ru)
+- **Email**: Nikolga-0524@inbox.ru
 - **GitHub**: [Nikolga-0524-stack](https://github.com/Nikolga-0524-stack)
 
 > 💡 *Открыта к предложениям  и интересным пет-проектам в области AI/LLM. Пиши — обсудим!*
